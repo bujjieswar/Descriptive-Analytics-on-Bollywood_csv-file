@@ -12,7 +12,7 @@ _**Frequency Distributions**_: Descriptive analytics helps in creating frequency
 
 **Dataset**:
 
-_**Link**_:https://github.com/siriee/Descriptive-Analytics-on-Bollywood_csv-file/blob/main/bollywood.csv
+_**Link**_:https://github.com/bujjieswar/Descriptive-Analytics-on-Bollywood_csv-file/blob/main/bollywood.csv
 
 _**Description of variables in Dataset**_:
 
